@@ -12,7 +12,7 @@ Os dados são transformados em um *DataFrame* utilizando a biblioteca **pandas**
 
 ## Pré-requisitos
 
-- Python 3.x
+- Python
 - Bibliotecas:
   - `pandas`
   - `requests`
